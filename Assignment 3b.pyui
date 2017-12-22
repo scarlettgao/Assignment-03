@@ -1,0 +1,225 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 45}, {385, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{197, 251}, {150, 32}}",
+          "uuid" : "6A750233-1B8D-4A1B-8B28-BAC58E457CD9",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "choose one kind of pizza ",
+          "name" : "choose_one_kind_of_pizza_label",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{212, 98}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "extra_large_button_touch_up_inside",
+          "frame" : "{{232, 251}, {80, 32}}",
+          "title" : "extra large",
+          "uuid" : "1BC5C48E-D1E8-4DFC-8269-4E912B7FC58F",
+          "class" : "Button",
+          "name" : "extra_large_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 98}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "large_button_touch_up_inside",
+          "frame" : "{{232, 251}, {80, 32}}",
+          "title" : "large",
+          "uuid" : "5D9A52BE-C422-4136-8FAB-9A6A0C90CF99",
+          "class" : "Button",
+          "name" : "large_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 145}, {385, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{197, 251}, {150, 32}}",
+          "uuid" : "7F1D6015-C4FF-4A40-86F8-741DCE80C2D5",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "choose how many toppings you want",
+          "name" : "choose_how_many_toppings_you_want_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 196}, {129, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "one_topping_button_touch_up_inside",
+          "frame" : "{{232, 251}, {80, 32}}",
+          "title" : "one topping",
+          "class" : "Button",
+          "uuid" : "3625EC8C-E1A0-444D-A7B1-679533C49362",
+          "font_size" : 15,
+          "name" : "one_topping_button"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{212, 196}, {133, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "two_toppings_button_touch_up_inside",
+          "frame" : "{{232, 251}, {80, 32}}",
+          "title" : "two toppings",
+          "class" : "Button",
+          "uuid" : "7F81D1EC-12BB-43E2-B0EB-6641ECB68E7A",
+          "font_size" : 15,
+          "name" : "two_toppings_button"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 236}, {129, 33}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "three_toppings_button_touch_up_inside",
+          "frame" : "{{232, 251}, {80, 32}}",
+          "title" : "three toppings",
+          "class" : "Button",
+          "uuid" : "700D4716-069F-4B55-AD61-DA84FE815B78",
+          "font_size" : 15,
+          "name" : "three_toppings_button"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{212, 236}, {133, 33}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "four_toppings_button_touch_up_inside",
+          "frame" : "{{232, 251}, {80, 32}}",
+          "title" : "four toppings",
+          "class" : "Button",
+          "uuid" : "8BCF758A-3D25-49A9-A4B9-13BBD1039B4A",
+          "font_size" : 15,
+          "name" : "four_toppings_button"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{106, 277}, {80, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{232, 251}, {80, 32}}",
+          "title" : "calculate",
+          "class" : "Button",
+          "uuid" : "B407C4BF-A21C-4AF5-91B8-EE34F469A674",
+          "font_size" : 15,
+          "name" : "calculate_button"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 326}, {540, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{197, 251}, {150, 32}}",
+          "uuid" : "6F36AB3F-B908-4DC2-A1BD-6683C9EF4814",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "subtotal is:",
+          "name" : "subtotal_label",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 366}, {510, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{197, 251}, {150, 32}}",
+          "uuid" : "1AD2FF6C-2E28-4D5C-AC98-BD8C88C1B3AB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "tax is:",
+          "name" : "tax_label",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 406}, {520, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{197, 251}, {150, 32}}",
+          "uuid" : "954FF9F2-9A57-4157-BB40-E6BDACBAD64A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "total price is:",
+          "name" : "total_price_label",
+          "font_size" : 18
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {597, 576}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
